@@ -1,31 +1,32 @@
 [
-    {"id": 25,
-"date": "02/16/2022",
-"institution": "Desjardins",
-"account": "Visa Desjardins",
-"merchant": "STM",
-"amount": 6.50,
-"type": "debit",
-"categoryId": 101,
-"category": "Public Transportation",
-"isPending": true,
-"isTransfer" : false,
-"isExpense": true,
-"isEdited": false
-},
-{"id": 26,
-"date": "02/16/2022",
-"institution": "Desjardins",
-"account": "Visa Desjardins",
-"merchant": "STM",
-"amount": 11.50,
-"type": "debit",
-"categoryId": 122,
-"category": "Food",
-"isPending": true,
-"isTransfer" : false,
-"isExpense": true,
-"isEdited": false
-}
-
+    {
+        "id": 25,
+        "date": "02/16/2022",
+        "institution": "Desjardins",
+        "account": "Visa Desjardins",
+        "merchant": "STM",
+        "amount": 6.50,
+        "type": "debit",
+        "categoryId": 101,
+        "category": "Public Transportation",
+        "isPending": true,
+        "isTransfer" : false,
+        "isExpense": true,
+        "isEdited": false
+    },
+    {
+        "id": 26,
+        "date": "02/16/2022",
+        "institution": "Desjardins",
+        "account": "Visa Desjardins",
+        "merchant": "STM",
+        "amount": 11.50,
+        "type": "debit",
+        "categoryId": 122,
+        "category": "Food",
+        "isPending": true,
+        "isTransfer" : false,
+        "isExpense": true,
+        "isEdited": false
+    }
 ]
