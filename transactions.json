@@ -58,5 +58,50 @@
         "isTransfer" : false,
         "isExpense": true,
         "isEdited": false
+    },
+    {
+        "id": 29,
+        "date": "03/02/2022",
+        "institution": "CR",
+        "account": "Visa CR",
+        "merchant": "Apple",
+        "amount": -199.50,
+        "type": "debit",
+        "categoryId": 501,
+        "category": "Groceries",
+        "isPending": true,
+        "isTransfer" : false,
+        "isExpense": true,
+        "isEdited": false
+    },
+    {
+        "id": 30,
+        "date": "03/02/2022",
+        "institution": "CR",
+        "account": "Visa CR",
+        "merchant": "Apple",
+        "amount": -79.00,
+        "type": "debit",
+        "categoryId": 501,
+        "category": "Groceries",
+        "isPending": true,
+        "isTransfer" : false,
+        "isExpense": true,
+        "isEdited": false
+    },
+    {
+        "id": 31,
+        "date": "03/02/2022",
+        "institution": "CR",
+        "account": "Visa CR",
+        "merchant": "Billa",
+        "amount": -150.50,
+        "type": "debit",
+        "categoryId": 7,
+        "category": "Income",
+        "isPending": true,
+        "isTransfer" : false,
+        "isExpense": true,
+        "isEdited": false
     }
 ]
