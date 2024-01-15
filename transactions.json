@@ -95,7 +95,7 @@
         "institution": "CR",
         "account": "Visa CR",
         "merchant": "Billa",
-        "amount": 1500.50,
+        "amount": 2000.00,
         "type": "debit",
         "categoryId": 7,
         "category": "Income",
